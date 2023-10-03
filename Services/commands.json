@@ -1,0 +1,21 @@
+{
+  "commands": {
+    "--login": {
+      "usage": "--login <Username>",
+      "description": "Allow the user to connect if not already connected",
+      "nbArguments": 1,
+      "fileName": ""
+    },
+    "--setup": {
+      "usage": "--setup",
+      "description": "Setup database on first use",
+      "nbArguments": 0,
+      "fileName": ""
+    },
+    "--help": {
+      "description": "Display man page",
+      "nbArguments": 0,
+      "fileName": ""
+    }
+  }
+}

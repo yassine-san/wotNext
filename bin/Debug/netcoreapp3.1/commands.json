@@ -1,0 +1,14 @@
+{
+  "commands": {
+    "--login": {
+      "usage": "--login <Username>",
+      "description": "Allow the user to connect if not already connected",
+      "nbArguments": 1
+    },
+    "--help": {
+      "usage": "--help",	
+      "description": "Display man page",
+      "nbArguments": 0
+    }
+  }
+}
