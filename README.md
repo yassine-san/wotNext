@@ -1,2 +1,2 @@
 # wotNext
-A console Task management app , to handle team's in in a local network. 
+A console Task management app , to handle team's tasks in in a local network. 
